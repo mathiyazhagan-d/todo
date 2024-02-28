@@ -4,7 +4,7 @@ import TodoApp from './component/todo';
 function App() {
   return (
     <div >
-      <TodoApp/>
+      <TodoApp />
     </div>
   );
 }

@@ -106,41 +106,50 @@
   font-style: italic;
 }
 
-.text-center{
+.text-center {
   text-align: center;
 }
 
-.margin-20{
+.margin-20 {
   margin: 20px !important;
 }
 
-.text-color{
-  color:blueviolet !important;
-  
+.text-color {
+  color: blueviolet !important;
+
 }
-.container-top{
-  margin:15px !important;
+
+.container-top {
+  margin: 15px !important;
   justify-content: space-between;
 }
 
 .btn-color-1 {
   width: 80% !important;
   padding: 15px !important;
-  border-radius: 25px !important; /* Adjust the radius as needed */
-  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1) !important; /* Box shadow on one end */
+  border-radius: 25px !important;
+  /* Adjust the radius as needed */
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1) !important;
+  /* Box shadow on one end */
   /* background: blueviolet !important;  */
 }
 
 .btn-color-1:hover {
-  background: rgb(142, 248, 216) !important; /* Change color on hover if needed */
+  background: rgb(142, 248, 216) !important;
+  /* Change color on hover if needed */
 }
 
-.bg-green{
-  background: rgb(4, 153, 108) !important; /* Change color on hover if needed */
+.bg-green {
+  background: rgb(4, 153, 108) !important;
+  /* Change color on hover if needed */
 }
-.bg-red{
-  background: rgb(153, 2, 2) !important; /* Change color on hover if needed */
+
+.bg-red {
+  background: rgb(153, 2, 2) !important;
+  /* Change color on hover if needed */
 }
-.bg-orange{
-  background: rgb(153, 81, 4) !important; /* Change color on hover if needed */
+
+.bg-orange {
+  background: rgb(153, 81, 4) !important;
+  /* Change color on hover if needed */
 }
